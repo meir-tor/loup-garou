@@ -1,0 +1,2 @@
+# loup-garou
+Werewolf agent
